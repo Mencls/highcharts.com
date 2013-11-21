@@ -1,0 +1,25 @@
+{
+  "name": "highcharts.com",
+  "version": "v3.0.2",
+  "main": [
+    "js/exporting.js",
+    "js/highcharts-more.js",
+    "js/highstock.js"
+  ],  
+  "ignore": [
+    "errors",
+    "exporting-server",
+    "gfx",
+    "lib",
+    "samples",
+    "studies",
+    "test",
+    "tools",
+    "utils",
+    "ant",
+    "build.md",
+    "build.properties",
+    "build.xml",
+    "invalidations.txt"
+  ]
+}
